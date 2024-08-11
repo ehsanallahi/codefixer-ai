@@ -62,7 +62,7 @@ const LandingPage = () => {
                     </Typography>
                     <Stack direction="row" spacing={2} sx={{ justifyContent: 'center', mt: '5%' }}>
                         
-                        <Button variant="contained" sx={{ border: `2px solid #00fffb`, boxShadow: '0 12px 24px rgba(0,0,0,0.3)' }} onClick={handleOpen}>
+                        <Button variant="contained" sx={{ border: `1px solid #00fffb`, boxShadow: '0 12px 24px rgba(0,0,0,0.3)' }} onClick={handleOpen}>
                        Ask 
                     </Button>
                     </Stack>

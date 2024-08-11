@@ -63,7 +63,7 @@ const ChatBot = () => {
           {messages.map((message, index) => (
             <Box key={index} display="flex" justifyContent={message.role === 'assistant' ? 'flex-start' : 'flex-end'}>
               <Box
-                bgcolor= {message.role === "assistant" ? "#200589" : "#8ea5ff"}
+                bgcolor= {message.role === "assistant" ? "#257286" : "#333333"}
                 color="white"
                 borderRadius={3}
                 p={2}>
