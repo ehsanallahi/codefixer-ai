@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any inquiries or support, please reach out to [your-email@example.com](mailto:ehsanallahi47@gmail.com).
+For any inquiries or support, please reach out to [ehsanallahi47@gmail.com](mailto:ehsanallahi47@gmail.com).
 
 ## 📌 Star and Follow
 
